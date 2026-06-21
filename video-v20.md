@@ -4,7 +4,7 @@ Este repositorio contiene las herramientas y recursos utilizados para personaliz
 
 ## Vista Previa de la Configuración
 
-![Demostración de la Configuración](./ningunosorry.jpg)
+https://youtu.be/c2pvOdZCxdU
 
 ---
 

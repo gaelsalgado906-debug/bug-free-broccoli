@@ -1,1 +1,4 @@
-<img src="/hugomd/ascii-live/raw/master/demo.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img width="1907" height="860" alt="image" src="https://github.com/user-attachments/assets/d15e1a00-2b62-4c93-80a2-c8f83f1aaac4" />
+
+
+

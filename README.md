@@ -74,6 +74,47 @@ https://github.com/gaelsalgado906-debug/bug-free-broccoli/blob/main/links
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           
 <img width="1905" height="1077" alt="image" src="https://github.com/user-attachments/assets/efd39011-b751-40a3-aac6-2f85cd8aec33" />    
 
 

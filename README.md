@@ -1,4 +1,10 @@
-hi
+how to get a  blur windows 11 with animation + taskbar 
+
+
+
+
+
+<img width="1905" height="1077" alt="image" src="https://github.com/user-attachments/assets/efd39011-b751-40a3-aac6-2f85cd8aec33" />
 
 
 
@@ -6,7 +12,6 @@ hi
 
 
     
-<img width="826" height="636" alt="Grabación 2026-06-21 125359" src="https://github.com/user-attachments/assets/3d2633e6-07da-4ca7-b8eb-60cff8551039" />
 
 
 

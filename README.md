@@ -1,6 +1,14 @@
 how to get a  blur windows 11 with animation + taskbar 
 instal https://windhawk.net/  
 try this : https://nexus-dock.en.softonic.com/download
+https://github.com/gaelsalgado906-debug/bug-free-broccoli/blob/main/links
+
+
+
+
+
+
+
 
 
 

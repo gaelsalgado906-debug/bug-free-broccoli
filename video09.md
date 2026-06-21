@@ -6,7 +6,7 @@ Este repositorio contiene las herramientas, configuraciones y recursos utilizado
 
 Aquí puedes ver el proceso de descarga y las herramientas utilizadas en el navegador:
 
-![Demostración de la Configuración](./ningunosorry.jpg)
+https://youtu.be/c2pvOdZCxdU
 
 ---
 
